@@ -1,18 +1,18 @@
 # UIE-UIR__TPAMI-IJCV-TIP
 
-# TPAMI (IEEE Transactions on Pattern Analysis and Machine Intelligence)
+# *TPAMI (IEEE Transactions on Pattern Analysis and Machine Intelligence)*
 ## 1. Underwater Single Image Color Restoration Using Haze-Lines and a New Quantitative Dataset. (2021)
 
 ## 2. Enhancement-Registration-Homogenization (ERH): A Comprehensive Underwater Visual Reconstruction Paradigm. (2022)
 
 ## 3. Rank-One Prior: Real-Time Scene Recovery. (2023)
 
-# IJCV (International Journal of Computer Vision)
+# *IJCV (International Journal of Computer Vision)*
 ## 1. Underwater Camera: Improving Visual Perception Via Adaptive Dark Pixel Prior and Color Correction. (2023)
 
 ## 2. HCLR-Net: Hybrid Contrastive Learning Regularization with Locally Randomized Perturbation for Underwater Image Enhancement. (2024)
 
-# TIP (IEEE Transactions on Image Processing)
+# *TIP (IEEE Transactions on Image Processing)*
 ## 1. Underwater Image Enhancement by Wavelength Compensation and Dehazing. (2012)
 
 ## 2. Underwater Image Enhancement by Dehazing With Minimum Information Loss and Histogram Distribution Prior. (2016)
