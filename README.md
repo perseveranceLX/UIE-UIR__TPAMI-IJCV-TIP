@@ -1,4 +1,4 @@
-![image](https://github.com/perseveranceLX/UIE-UIR__TPAMI-IJCV-TIP/assets/60308838/881fb5a4-9b29-450d-bf36-084d72d7b9d2)# UIE-UIR__TPAMI-IJCV-TIP
+# UIE-UIR__TPAMI-IJCV-TIP
 
 # TPAMI
 ## 1. Underwater Single Image Color Restoration Using Haze-Lines and a New Quantitative Dataset. (2021)
